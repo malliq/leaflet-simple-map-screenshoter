@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-simple-map-screenshoter",
+  "name": "@malliq/leaflet-simple-map-screenshoter",
   "version": "0.5.0",
   "description": "Leaflet plugin plugin which take screenshot of map",
   "main": "dist/leaflet-simple-map-screenshoter.js",
