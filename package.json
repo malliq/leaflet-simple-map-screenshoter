@@ -9,7 +9,6 @@
     "url": "git+https://github.com/grinat/leaflet-simple-map-screenshoter.git"
   },
   "scripts": {
-    "build": "rollup -c",
     "dev": "rollup -c -w",
     "test-e2e": "mocha tests/runner --timeout 60000 --recursive tests/e2e",
     "test": "npm run build && npm run test-e2e",
