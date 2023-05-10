@@ -12,7 +12,6 @@
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "test-e2e": "mocha tests/runner --timeout 60000 --recursive tests/e2e",
-    "prepare": "npm run build",
     "test": "npm run build && npm run test-e2e",
     "server": "node server.js"
   },
