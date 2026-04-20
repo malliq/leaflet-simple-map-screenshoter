@@ -1,0 +1,11 @@
+{
+  "name": "@malliq/leaflet-simple-map-screenshoter",
+  "version": "0.5.0",
+  "description": "Leaflet screenshot plugin - dist only vendor package",
+  "main": "dist/leaflet-simple-map-screenshoter.js",
+  "typings": "types/index.d.ts",
+  "dependencies": {
+    "dom-to-image-more": "^2.12.0",
+    "file-saver": "^2.0.2"
+  }
+}
